@@ -1,0 +1,10 @@
+D:\Work\Diplomna\Form2 WinForms\EncryptDecryptApp\EncryptDecryptApp\bin\Debug\EncryptDecryptApp.exe.config
+D:\Work\Diplomna\Form2 WinForms\EncryptDecryptApp\EncryptDecryptApp\bin\Debug\EncryptDecryptApp.exe
+D:\Work\Diplomna\Form2 WinForms\EncryptDecryptApp\EncryptDecryptApp\bin\Debug\EncryptDecryptApp.pdb
+D:\Work\Diplomna\Form2 WinForms\EncryptDecryptApp\EncryptDecryptApp\obj\Debug\EncryptDecryptApp.csprojResolveAssemblyReference.cache
+D:\Work\Diplomna\Form2 WinForms\EncryptDecryptApp\EncryptDecryptApp\obj\Debug\EncryptDecryptApp.Form1.resources
+D:\Work\Diplomna\Form2 WinForms\EncryptDecryptApp\EncryptDecryptApp\obj\Debug\EncryptDecryptApp.Properties.Resources.resources
+D:\Work\Diplomna\Form2 WinForms\EncryptDecryptApp\EncryptDecryptApp\obj\Debug\EncryptDecryptApp.csproj.GenerateResource.Cache
+D:\Work\Diplomna\Form2 WinForms\EncryptDecryptApp\EncryptDecryptApp\obj\Debug\EncryptDecryptApp.csproj.CoreCompileInputs.cache
+D:\Work\Diplomna\Form2 WinForms\EncryptDecryptApp\EncryptDecryptApp\obj\Debug\EncryptDecryptApp.exe
+D:\Work\Diplomna\Form2 WinForms\EncryptDecryptApp\EncryptDecryptApp\obj\Debug\EncryptDecryptApp.pdb
